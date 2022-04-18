@@ -1,0 +1,58 @@
+{
+  "version": "5.0.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "Face",
+      "points": [
+        [
+          180.1917808219178,
+          161.86301369863014
+        ],
+        [
+          395.94520547945206,
+          524.1917808219179
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "Face",
+      "points": [
+        [
+          609.6438356164384,
+          270.0821917808219
+        ],
+        [
+          809.0958904109589,
+          541.054794520548
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "Face",
+      "points": [
+        [
+          427.45205479452056,
+          0.9041095890411199
+        ],
+        [
+          560.3287671232877,
+          139.26027397260276
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "../../dataset/mask/mask/8.jpg",
+  "imageData": null,
+  "imageHeight": 540,
+  "imageWidth": 960
+}

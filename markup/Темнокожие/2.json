@@ -1,0 +1,74 @@
+{
+  "version": "5.0.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "Face",
+      "points": [
+        [
+          307.05128205128204,
+          223.07692307692307
+        ],
+        [
+          387.8205128205128,
+          329.4871794871795
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "Face",
+      "points": [
+        [
+          121.15384615384615,
+          54.48717948717948
+        ],
+        [
+          200.0,
+          157.37179487179486
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "Face",
+      "points": [
+        [
+          178.59922178988327,
+          243.19066147859922
+        ],
+        [
+          190.27237354085605,
+          259.9221789883269
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "Face",
+      "points": [
+        [
+          113.46153846153845,
+          177.8846153846154
+        ],
+        [
+          121.47435897435896,
+          193.9102564102564
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "../../dataset/Темнокожие/Темнокожие/2.jpg",
+  "imageData": null,
+  "imageHeight": 452,
+  "imageWidth": 612
+}

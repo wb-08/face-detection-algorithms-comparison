@@ -1,0 +1,26 @@
+{
+  "version": "5.0.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "Face",
+      "points": [
+        [
+          160.41379310344828,
+          65.51724137931035
+        ],
+        [
+          315.58620689655174,
+          267.6724137931035
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "../../dataset/Темнокожие/Темнокожие/32.jpg",
+  "imageData": null,
+  "imageHeight": 412,
+  "imageWidth": 482
+}

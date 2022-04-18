@@ -1,0 +1,26 @@
+{
+  "version": "5.0.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "Face",
+      "points": [
+        [
+          183.81081081081078,
+          157.2072072072072
+        ],
+        [
+          401.8288288288288,
+          436.036036036036
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "../../dataset/Белокожие/Белокожие/6.jpg",
+  "imageData": null,
+  "imageHeight": 578,
+  "imageWidth": 570
+}

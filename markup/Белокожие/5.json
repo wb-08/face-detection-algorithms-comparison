@@ -1,0 +1,42 @@
+{
+  "version": "5.0.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "Face",
+      "points": [
+        [
+          87.61538461538458,
+          241.3076923076923
+        ],
+        [
+          309.41025641025635,
+          543.2307692307692
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "Face",
+      "points": [
+        [
+          217.74358974358972,
+          56.69230769230769
+        ],
+        [
+          279.9230769230769,
+          125.92307692307692
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "../../dataset/Белокожие/Белокожие/5.jpg",
+  "imageData": null,
+  "imageHeight": 612,
+  "imageWidth": 459
+}

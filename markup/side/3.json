@@ -1,0 +1,26 @@
+{
+  "version": "5.0.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "Face",
+      "points": [
+        [
+          147.8888888888889,
+          49.333333333333336
+        ],
+        [
+          227.54342431761785,
+          224.8138957816377
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "../../dataset/side/side/3.jpg",
+  "imageData": null,
+  "imageHeight": 425,
+  "imageWidth": 400
+}

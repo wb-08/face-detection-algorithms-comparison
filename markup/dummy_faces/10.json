@@ -1,0 +1,42 @@
+{
+  "version": "5.0.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "Face",
+      "points": [
+        [
+          154.0438413361169,
+          138.4133611691023
+        ],
+        [
+          199.0,
+          198.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "Face",
+      "points": [
+        [
+          55.2964509394572,
+          62.421711899791234
+        ],
+        [
+          132.54070981210856,
+          136.53444676409185
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "../../dataset/dummy_faces/dummy_faces/10.png",
+  "imageData": null,
+  "imageHeight": 200,
+  "imageWidth": 200
+}

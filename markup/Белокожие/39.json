@@ -1,0 +1,26 @@
+{
+  "version": "5.0.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "Face",
+      "points": [
+        [
+          108.8,
+          42.56
+        ],
+        [
+          173.28,
+          138.4
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "../../dataset/Белокожие/Белокожие/39.jpg",
+  "imageData": null,
+  "imageHeight": 168,
+  "imageWidth": 300
+}

@@ -1,0 +1,58 @@
+{
+  "version": "5.0.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "Face",
+      "points": [
+        [
+          328.10810810810807,
+          247.56756756756755
+        ],
+        [
+          478.37837837837833,
+          418.3783783783784
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "Face",
+      "points": [
+        [
+          585.9459459459459,
+          178.9189189189189
+        ],
+        [
+          730.2702702702702,
+          351.35135135135135
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "Face",
+      "points": [
+        [
+          920.5405405405405,
+          230.8108108108108
+        ],
+        [
+          1058.3783783783783,
+          415.1351351351351
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "../../dataset/dummy_faces/dummy_faces/29.jpeg",
+  "imageData": null,
+  "imageHeight": 700,
+  "imageWidth": 1244
+}

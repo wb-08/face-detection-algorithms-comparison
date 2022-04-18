@@ -1,0 +1,26 @@
+{
+  "version": "5.0.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "Face",
+      "points": [
+        [
+          270.70707070707067,
+          71.71717171717171
+        ],
+        [
+          310.77441077441074,
+          183.16498316498314
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "../../dataset/side/side/49.jpg",
+  "imageData": null,
+  "imageHeight": 700,
+  "imageWidth": 486
+}

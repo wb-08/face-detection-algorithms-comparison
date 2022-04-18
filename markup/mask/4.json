@@ -1,0 +1,26 @@
+{
+  "version": "5.0.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "Face",
+      "points": [
+        [
+          532.974358974359,
+          63.5128205128205
+        ],
+        [
+          761.1794871794872,
+          361.5897435897436
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "../../dataset/mask/mask/4.jpg",
+  "imageData": null,
+  "imageHeight": 450,
+  "imageWidth": 900
+}

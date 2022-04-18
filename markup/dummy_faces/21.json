@@ -1,0 +1,26 @@
+{
+  "version": "5.0.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "Face",
+      "points": [
+        [
+          178.96296296296296,
+          90.74074074074073
+        ],
+        [
+          286.32352941176464,
+          228.88235294117646
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "../../dataset/dummy_faces/dummy_faces/21.jpeg",
+  "imageData": null,
+  "imageHeight": 700,
+  "imageWidth": 466
+}
