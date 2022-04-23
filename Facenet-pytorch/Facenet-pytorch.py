@@ -12,9 +12,10 @@ import os
 device = 'cpu'
 torch.device(device)
 
-# PATH_TO_DATASET/
-directory_with_images = '/home/wb_08/PycharmProjects/face_research/dataset/dummy_faces/dummy_faces/'
-directory_with_markup = '/home/wb_08/PycharmProjects/face_research/markup/dummy_faces/'
+# PATH_TO_DATASET - SPECIFY!/
+directory_with_images = ''
+# PATH_TO_MARKUP- SPECIFY!/
+directory_with_markup = ''
 
 
 def load_model():

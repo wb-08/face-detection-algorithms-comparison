@@ -6,12 +6,16 @@ import cv2
 import os
 
 
-directory_with_images = '/home/wb_08/PycharmProjects/face_research/dataset/dummy_faces/dummy_faces/'
-directory_with_markup = '/home/wb_08/PycharmProjects/face_research/markup/dummy_faces/'
 model_path = "models/pretrained/version-RFB-320.pth"
 define_img_size(640)
 # 'cuda:0 or cpu'
 device = 'cpu'
+
+
+# PATH_TO_DATASET - SPECIFY!/
+directory_with_images = ''
+# PATH_TO_MARKUP- SPECIFY!/
+directory_with_markup = ''
 
 
 def load_model():
