@@ -10,10 +10,12 @@ directory_with_images = ''
 # PATH_TO_MARKUP- SPECIFY!/
 directory_with_markup = ''
 
+model = RetinaFace.build_model()  # build model only once
+
 
 def find_face(filename):
     image = cv2.imread(filename)
-    face_landmarks = RetinaFace.detect_faces(filename)
+    face_landmarks = RetinaFace.detect_faces(filename, model=model, threshold=0.9)  # for treshhold tuning
     try:
         detected_bboxes = [face_landmarks[key]["facial_area"]
                             for key in face_landmarks.keys()]
